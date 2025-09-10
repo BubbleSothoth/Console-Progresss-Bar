@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  ConsoleProgresssBar.cpp
+F:\project\ConsoleProgresssBar\ConsoleProgresssBar\ConsoleProgresssBar.cpp(36,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“/ConsoleProgresssBar.cpp”)
+  
+F:\project\ConsoleProgresssBar\ConsoleProgresssBar\ConsoleProgresssBar.cpp(39,18): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/ConsoleProgresssBar.cpp”)
+  
+F:\project\ConsoleProgresssBar\ConsoleProgresssBar\ConsoleProgresssBar.cpp(52,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“/ConsoleProgresssBar.cpp”)
+  
+  ConsoleProgresssBar.vcxproj -> F:\project\ConsoleProgresssBar\Release\ConsoleProgresssBar.lib
